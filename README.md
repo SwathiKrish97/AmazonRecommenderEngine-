@@ -1,4 +1,4 @@
-# AmazonRecommenderEngine
+# Amazon Recommender Engine
 * Developed a state-of-the-art e-commerce recommendation system using advanced ML, achieving 80% accuracy.
 * For Guest Users: Implemented advanced NLP techniques and classifier ensembles for dynamic, personalized product suggestions, addressing the 'cold start' problem.
 * For Registered Users: Integrated the LightFM framework for data-driven personalization based on user-item interactions, enhancing the user experience.
